@@ -61,7 +61,7 @@ Worked with the __syslog-ng__ team. [More Info](http://black-perl.in/gsoc16-sysl
 <p>- Architectured the release process of syslog-ng by analysing its build system and packaging.
 - Developed a changelog generation algorithm to generate a changelog from the GIT/GitHub history of the project.
 - Developed modules that can be used in cohesion to carry out the release process.
-- Primarily used Python for development along with heavy usage of other technologies like Docker, GIT, GitHub Api etc.
+- Primarily used Python for development along with heavy usage of technologies like Docker, GIT, GitHub Api etc.
 </p>
 </pre>
 
