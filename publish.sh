@@ -10,8 +10,25 @@ cp _site/index.html ./index.html
 
 echo "\n\n"
 
+# Update master
+echo "\033[0;32m Updating resume template on master ..\n \033[0m"
+
+git checkout master
+
+git add index.md publish.sh README.md
+
+git commit -m "Updating the resume template"
+
+if [ $? -eq 0 ]; then
+    git push origin master
+else
+    echo -e "\033[1;31m No changes made to the resume template \033[0m"
+fi
+
 # Update gh-pages
-echo "\033[0;32m Updating resume on gh-pages ..\n \x1b[m"
+echo "\033[0;32m Updating resume on gh-pages ..\n \033[0m"
+
+git checkout gh-pages
 
 git add index.html media/*
 
@@ -26,15 +43,3 @@ fi
 echo "\n\n"
 
 
-# Update master
-echo "\033[0;32m Updating resume template on master ..\n \x1b[m"
-
-git add index.md publish.sh README.md
-
-git commit -m "Updating the resume template"
-
-if [ $? -eq 0 ]; then
-    git push origin master
-else
-    echo -e "\033[1;31m No changes made to the resume template \033[0m"
-fi
