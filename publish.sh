@@ -2,14 +2,14 @@
 rm ./index.html
 
 # Generate new resume
-echo -e "\x1B[0;32m Jekyll building....\n \x1b[m"
+echo "\x1B[0;32m Jekyll building....\n \x1b[m"
 
 jekyll build
 
 cp _site/index.html ./index.html
 
 # Update gh-pages
-echo -e "\x1B[0;32m Updating resume on gh-pages ..\n \x1b[m"
+echo "\x1B[0;32m Updating resume on gh-pages ..\n \x1b[m"
 
 git add index.html media/*
 
@@ -22,7 +22,7 @@ else
 fi
 
 # Update master
-echo -e "\x1B[0;32m Updating resume template on master ..\n \x1b[m"
+echo "\x1B[0;32m Updating resume template on master ..\n \x1b[m"
 
 git add index.md publish.sh README.md
 
