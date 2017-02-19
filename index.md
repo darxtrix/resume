@@ -42,7 +42,7 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 * Node/JavaScript
 * Java
 * C/C++
-* Git 
+* Git
 * UNIX
 * Docker
 * HTML/HTML5
@@ -58,10 +58,10 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 `May-Aug 16`
 Worked with the __syslog-ng__ team. [More Info](http://black-perl.in/gsoc16-syslog-ng-autorel-summary/)<br/>
 <pre>
-<p>- Architectured the release process of syslog-ng by analysing its build system and packaging from scratch
+<p>- Architectured the release process of syslog-ng by analysing its build system and packaging.
 - Developed a changelog generation algorithm to generate a changelog from the GIT/GitHub history of the project.
 - Developed modules that can be used in cohesion to carry out the release process.
-- Primarily used Python for development along with heavy usage of technologies Docker, GIT, GitHub Api etc.
+- Primarily used Python for development along with heavy usage of other technologies like Docker, GIT, GitHub Api etc.
 </p>
 </pre>
 
@@ -133,12 +133,12 @@ A Sudoku solver web application that uses backtracking algorithm to solve a Sudo
 A Desktop application that powers users to do primitive operations like scrolls, clicks, mouse-movements by using hand gestures 
 alone. The application translates different colors to different computer operations by using color detection algorithms. [More info](https://github.com/black-perl/Virtual-User.git)
 
-### touchless flappy game
+### touchless_flappy_game
 
 A flappy bird game interfaced to be played by hand gesture movements. Used Pygame library for developing the game and SimpleCV library 
 <br/> with various Image Processing algorithms for interfacing the game with hand gestures. [More Info](https://github.com/black-perl/Touch-free-flappy-bird-game)
 
-### btech project
+### btech_project
 
 Developed a platform that enables users to do wifi calling using their smartphones over intranet.
 

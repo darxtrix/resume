@@ -1,4 +1,14 @@
-# Generate new resume
+#!/bin/bash
+# Generate new resume on the go
+
+COMMIT_MSG=""
+
+for var in "$@"
+do
+    COMMIT_MSG+=$var
+    COMMIT_MSG+=" "
+done
+
 echo "\033[0;32m Jekyll building....\n \033[0m"
 
 jekyll build
@@ -12,7 +22,7 @@ cp _site/index.html index.html
 
 git add index.md publish.sh README.md index.html media/*
 
-git commit -m "Updating the resume template"
+git commit -m "$COMMIT_MSG"
 
 if [ $? -eq 0 ]; then
     git push origin master
