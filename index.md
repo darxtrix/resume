@@ -21,7 +21,7 @@ Open source enthusiast and linux lover
 ## Employment
 
 `July 16 -` 
-Working with the Incentives team at PayPal Inc, Bengaluru.
+Working on Incentives team at __PayPal Inc__, Bengaluru.
 
 
 ## Education
