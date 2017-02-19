@@ -3,3 +3,5 @@ _config.yml
 .saas-cache
 .jekyll-metadata
 _site/*
+publish_temp.sh
+index.html
