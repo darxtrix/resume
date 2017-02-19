@@ -23,6 +23,8 @@ else
     echo -e "\033[1;31m No changes made to the resume template \033[0m"
 fi
 
+echo "\n\n"
+
 # Update gh-pages
 echo "\033[0;32m Updating resume on gh-pages ..\n \033[0m"
 
@@ -39,6 +41,8 @@ if [ $? -eq 0 ]; then
 else
     echo -e "\033[1;31m No changes made to the resume \033[0m"
 fi
+
+git checkout master
 
 echo "\n\n"
 
