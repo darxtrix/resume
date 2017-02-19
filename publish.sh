@@ -2,7 +2,7 @@
 rm ./index.html
 
 # Generate new resume
-echo "\033[0;32m Jekyll building....\n \x1b[m"
+echo "\033[0;32m Jekyll building....\n \033[0m"
 
 jekyll build
 
