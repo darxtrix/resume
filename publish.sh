@@ -18,6 +18,8 @@ echo "\n\n"
 # Update
 echo "\033[0;32m Updating resume ..\n \033[0m"
 
+rm index.html
+
 cp _site/index.html index.html
 
 git add index.md publish.sh README.md index.html media/*
