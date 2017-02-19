@@ -11,14 +11,15 @@ done
 
 echo "\033[0;32m Jekyll building....\n \033[0m"
 
+# Remove this file otherwise it will overwrite generated index.html file
+rm index.html
+
 jekyll build
 
 echo "\n\n"
 
 # Update
 echo "\033[0;32m Updating resume ..\n \033[0m"
-
-rm index.html
 
 cp _site/index.html index.html
 
