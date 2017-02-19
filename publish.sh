@@ -6,8 +6,6 @@ echo "\033[0;32m Jekyll building....\n \033[0m"
 
 jekyll build
 
-cp _site/index.html ./index.html
-
 echo "\n\n"
 
 # Update master
@@ -29,6 +27,8 @@ fi
 echo "\033[0;32m Updating resume on gh-pages ..\n \033[0m"
 
 git checkout gh-pages
+
+cp _site/index.html ./index.html
 
 git add index.html media/*
 
