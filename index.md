@@ -3,7 +3,7 @@ layout: cv
 title: Ankush Sharma's cv
 ---
 # Ankush Sharma
-Open source enthusiast and linux lover
+Open source enthusiast and linux addict
 
 <div id="webaddress">
 <a href="http://darxtrix.in">darxtrix.in</a>

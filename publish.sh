@@ -1,6 +1,9 @@
 #!/bin/bash
 # Generate new resume on the go
 
+## Usage instructions ####
+# ./publish.sh <commit-msg>
+
 COMMIT_MSG=""
 
 for var in "$@"
