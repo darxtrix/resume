@@ -6,15 +6,15 @@ title: Ankush Sharma's cv
 Open source enthusiast and linux lover
 
 <div id="webaddress">
-<a href="http://black-perl.in">black-perl.in</a>
+<a href="http://darxtrix.in">darxtrix.in</a>
 |
-<i class="fa fa-envelope"></i> <a href="mailto:ankcodes@gmail.com">ankcodes@gmail.com</a>
+<i class="fa fa-envelope"></i> <a href="mailto:darxtrix@gmail.com">darxtrix@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/black-perl">black-perl</a>
+<i class="fa fa-github"></i> <a href="http://github.com/darxtrix">darxtrix</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/ankcodes">ankcodes</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/darxtrix">darxtrix</a>
 |
-<i class="fa fa-phone"></i> <a href="#">(+91)-8081172177</a>
+<i class="fa fa-phone"></i> <a href="#">(+91)-9034108971</a>
 </div>
 
 
@@ -56,7 +56,7 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 ### Google Summer of Code
 
 `May-Aug 16`
-Worked with the __syslog-ng__ team. [More Info](http://black-perl.in/gsoc16-syslog-ng-autorel-summary/)<br/>
+Worked with the __syslog-ng__ team. [More Info](http://darxtrix.in/gsoc16-syslog-ng-autorel-summary/)<br/>
 <pre>
 <p>- Architectured the release process of syslog-ng by analysing its build system and packaging.
 - Developed a changelog generation algorithm to generate a changelog from the GIT/GitHub history of the project.
@@ -114,7 +114,7 @@ Delivered a talk on the tools required to build Human Computer Interaction proje
 ### ptop 
 
 A terminal based task manager for linux based systems with real time visuals of resource usages. The project received > 1K <br/>
-downloads in the first two days and trended on GitHub for a week. [More info](http://black-perl.in/ptop)
+downloads in the first two days and trended on GitHub for a week. [More info](http://darxtrix.in/ptop)
 
 ### tweety
 
@@ -127,16 +127,16 @@ A URL shortening service that generates a shortened URL from a user entered URL.
 
 ### play_sudoku
 
-A Sudoku solver web application that uses backtracking algorithm to solve a Sudoku puzzle entered by user. [More info](http://black-perl.in/Play-Sudoku/)
+A Sudoku solver web application that uses backtracking algorithm to solve a Sudoku puzzle entered by user. [More info](http://darxtrix.in/Play-Sudoku/)
 
 ### virtual_user
 A Desktop application that powers users to do primitive operations like scrolls, clicks, mouse-movements by using hand gestures 
-alone. The application translates different colors to different computer operations by using color detection algorithms. [More info](https://github.com/black-perl/Virtual-User.git)
+alone. The application translates different colors to different computer operations by using color detection algorithms. [More info](https://github.com/darxtrix/Virtual-User.git)
 
 ### touchless_flappy_game
 
 A flappy bird game interfaced to be played by hand gesture movements. Used Pygame library for developing the game and SimpleCV library 
-<br/> with various Image Processing algorithms for interfacing the game with hand gestures. [More Info](https://github.com/black-perl/Touch-free-flappy-bird-game)
+<br/> with various Image Processing algorithms for interfacing the game with hand gestures. [More Info](https://github.com/darxtrix/Touch-free-flappy-bird-game)
 
 ### btech_project
 
