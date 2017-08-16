@@ -79,13 +79,13 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 ### PayPal Inc, Bengaluru
 
 `Jul 16 -`
-Worked on the <strong>Incentives Platfrom </strong>, the [SOR](https://en.wikipedia.org/wiki/System_of_record) for all types of offers/incentives provided by PayPal.
+Worked on the <strong>Incentives Platfrom</strong>, the [SOR](https://en.wikipedia.org/wiki/System_of_record) for all types of offers/incentives provided by PayPal.
 <pre>
 <p>- Working in an ecosystem with a bunch of microservices and async daemons managing the lifecycle and redemption of incentives given to the users.
-- Integrated the internal analytics (First Party Tracking Infrastructure) into the system to get better insights into the system.
+- Integrated the internal analytics (First Party Tracking Infrastructure) into the system to get better insights of the system.
 - Coupled Enterprise Continuous Integration with system components for better quality.
-- Managing the team's internal testing framework for testing REST microservices.
-- Responsible for adding features, finding and fixing bugs, code-refactoring, optimizations adhering to the <a href="https://en.wikipedia.org/wiki/Service-level_agreement)">SLAs</a> and testing, <br/> delivering the components to proudction.
+- Managing the internal testing framework for the testing of REST microservices.
+- Responsible for adding features, finding and fixing bugs, code-refactoring, optimizations adhering to the <a href="https://en.wikipedia.org/wiki/Service-level_agreement)">SLAs</a> and testing, <br/> delivering the components to prouduction.
 - Primarily used Java, C++, Node.js for development along with Python at few occasions.
 </p>
 </pre>
@@ -130,7 +130,7 @@ Worked as a software intern for [GetMeAShop](https://www.getmeashop.com/)
 Developed a cloud based application that powers users to do bulk emailing by using a single email template <br> with features like email scheduling, tracking etc. [More Info](https://www.youtube.com/watch?v=3gEAvQq6oAk)
 <pre>
 <p>- Winner at Startup-dash, New Delhi, 2014 and among the finalists of Google Cloud Developer Challenge 2013-2014.
-- Skills Acquired: Python, HTML/CSS, JavaScript, Django, Google App Engine, Google APIs.
+- Skills Acquired: Python, HTML/CSS, JavaScript, Django, Google APIs.
 </p>
 </pre>
 
@@ -153,7 +153,7 @@ A terminal based task manager for linux based systems with real time visuals of 
 downloads in the first two days and trended on GitHub for a week. [More info](http://darxtrix.in/ptop)
 
 ### lehar
-A Python library and a drop-in for your shell to generate histograms from data using relative ordering. **[WIP]** [More Info](http://darxtrix.in/lehar)
+A Python library and a drop-in for your shell to generate histograms from data using relative ordering of data. **[WIP]** [More Info](http://darxtrix.in/lehar)
 
 ### tweety
 
