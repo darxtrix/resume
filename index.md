@@ -2,7 +2,7 @@
 layout: cv
 title: Ankush Sharma's cv
 ---
-# Ankush Sharma
+# Ankush Sharma 
 Open source enthusiast and linux addict
 
 <div id="webaddress">
@@ -10,18 +10,25 @@ Open source enthusiast and linux addict
 |
 <i class="fa fa-envelope"></i> <a href="mailto:darxtrix@gmail.com">darxtrix@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/darxtrix">darxtrix</a>
+<i class="fa fa-github"></i> <a href="https://github.com/darxtrix">darxtrix</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/darxtrix">darxtrix</a>
+<i class="fa fa-twitter"></i> <a href="https://twitter.com/darxtrix">darxtrix</a>
 |
-<i class="fa fa-phone"></i> <a href="#">(+91)-9034108971</a>
+<i class="fa fa-phone"></i> <a href="#">(+91)-8081172177</a>
 </div>
 
 
-## Employment
+## About Me
 
-`July 16 -` 
-Working on Incentives team at __PayPal Inc__, Bengaluru.
+`-`
+The curious guy who wants to learn all of it. Fascinated by the internet and enjoying the art of programming, thriving to combine them into my everyday work. I go by the alias **darxtrix** on the Internet. In case you missed:
+<pre>
+<p>- Blogs at <a href="http://darxtrix.in">darxtrix.in</a>
+- Open source work at <a href="https://github.com/darxtrix">GitHub</a>
+- Tweets at <a href="https://twitter.com/darxtrix">@darxtrix</a>
+</p>
+</pre>
+
 
 
 ## Education
@@ -42,6 +49,7 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 * Node/JavaScript
 * Java
 * C/C++
+* Web Frameworks (Django,Express)
 * Git
 * UNIX
 * Docker
@@ -50,11 +58,39 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 * Bash
 
 
+## Looking for
+<pre>
+<p>- Right now I am actively learning/reading about cloud infrastructure, modern devops practices, distributed systems, tooling etc.
+- Any position that offers an oppurtunity to work on infrastructure, DevOps team etc.
+- Any position that offers exposure to tools lile <a href="https://github.com/hashicorp/nomad">Nomad</a>, <a href="https://github.com/hashicorp/consul">Consul</a>, <a href="https://github.com/coreos/etcd">etcd</a>, <a href="https://github.com/hashicorp/terraform">Terraform</a>, <a href="https://github.com/ansible/ansible">Ansible</a> etc.
+</p>
+</pre>
+
+## Not looking for
+<pre>
+<p>- A job that requires very less coding work and more meetings.
+- A position in business domain teams.
+</p>
+</pre>
+
 ## Work Experience
 <br/>
 
-### Google Summer of Code
+### PayPal Inc, Bengaluru
 
+`Jul 16 -`
+Worked on the <strong>Incentives Platfrom </strong>, the [SOR](https://en.wikipedia.org/wiki/System_of_record) for all types of offers/incentives provided by PayPal.
+<pre>
+<p>- Working in an ecosystem with a bunch of microservices and async daemons managing the lifecycle and redemption of incentives given to the users.
+- Integrated the internal analytics (First Party Tracking Infrastructure) into the system to get better insights into the system.
+- Coupled Enterprise Continuous Integration with system components for better quality.
+- Managing the team's internal testing framework for testing REST microservices.
+- Responsible for adding features, finding and fixing bugs, code-refactoring, optimizations adhering to the <a href="https://en.wikipedia.org/wiki/Service-level_agreement)">SLAs</a> and testing, <br/> delivering the components to proudction.
+- Primarily used Java, C++, Node.js for development along with Python at few occasions.
+</p>
+</pre>
+
+### Google Summer of Code
 `May-Aug 16`
 Worked with the __syslog-ng__ team. [More Info](http://darxtrix.in/gsoc16-syslog-ng-autorel-summary/)<br/>
 <pre>
@@ -105,7 +141,7 @@ Developed a cloud based application that powers users to do bulk emailing by usi
 ### PyCon, India 2014
 
 `Sep 14`
-Delivered a talk on the tools required to build Human Computer Interaction projects with Python. [More Info](http://in.pycon.org/funnel/2014/208-python-the-eyes-of-real-world-computer-applications)
+Delivered a talk at [Python Conference of India](https://in.pycon.org/) on the tools required to build Human Computer Interaction projects with Python [More Info](http://in.pycon.org/funnel/2014/208-python-the-eyes-of-real-world-computer-applications)
 
 
 ## Side Projects
@@ -115,6 +151,9 @@ Delivered a talk on the tools required to build Human Computer Interaction proje
 
 A terminal based task manager for linux based systems with real time visuals of resource usages. The project received > 1K <br/>
 downloads in the first two days and trended on GitHub for a week. [More info](http://darxtrix.in/ptop)
+
+### lehar
+A Python library and a drop-in for your shell to generate histograms from data using relative ordering. **[WIP]** [More Info](http://darxtrix.in/lehar)
 
 ### tweety
 
@@ -156,4 +195,4 @@ senior member of CLUB OF PROGRAMMERS, IIT-BHU.
 Successfully coordinated an app development event Code-4-2day for the departmental fest UDYAM. It was an effort to build <br/>programming culture at IIT-BHU and to encourage fellow students to contribute to open source software.
 
 
-<!--Last updated: Feb 2017 -->
+<!--Last updated: Aug 16 2017 -->

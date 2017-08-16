@@ -1,4 +1,4 @@
 Resume
 ======
 
-My [resume](http://black-perl.in/resume) :green_heart:
+My [resume](http://darxtrix.in/resume) :green_heart:
