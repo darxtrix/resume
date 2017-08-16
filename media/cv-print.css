@@ -79,6 +79,8 @@ code {
 p code {
 	position: absolute;
 	left: -10%;
+	color: black;
+	font-weight: bold;
 }
 
 
@@ -142,14 +144,14 @@ h2+p {
 }
 
 h3 {
-	color: #F07415;
 	font-size: 1em;
 	line-height: 2em;
-	color: #ccc;
 	position: relative;
 	top: 1.6em;
 	text-align: center;
 	width: 20%;
+	font-color: black;
+	font-weight: bold;
 }
 
 a {
@@ -165,7 +167,7 @@ a:hover {
  	margin-top: 0em;
 	position: relative;
 	left: 28%;
-	color: #ccc;
+	font-color: blue;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
@@ -208,3 +210,9 @@ strong {
 		margin-right: 0;
 		width: 65%;
 }
+
+a {
+	font-color: blue;
+	text-decoration: underline;
+}
+
