@@ -53,9 +53,9 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 * Git
 * UNIX
 * Docker
+* Kubernetes
 * HTML/HTML5
 * CSS/CSS3
-* Bash
 
 
 ## Looking for
