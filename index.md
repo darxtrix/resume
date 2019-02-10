@@ -3,7 +3,6 @@ layout: cv
 title: Ankush Sharma's cv
 ---
 # Ankush Sharma 
-Open source enthusiast and linux addict
 
 <div id="webaddress">
 <a href="http://darxtrix.in">darxtrix.in</a>
@@ -20,10 +19,10 @@ Open source enthusiast and linux addict
 
 ## About Me
 
-`-`
+
 The curious guy who wants to learn all of it. Fascinated by the internet and enjoying the art of programming, thriving to combine them into my everyday work. I go by the alias **darxtrix** on the Internet. In case you missed:
 <pre>
-<p>- Blogs at <a href="http://darxtrix.in">darxtrix.in</a> & <a href="https://medium.com/@darxtrix">Medium</a>
+<p>- Blogs at <a href="https://medium.com/@darxtrix">Medium</a> & <a href="http://darxtrix.in">darxtrix.in</a>
 - Open source work at <a href="https://github.com/darxtrix">GitHub</a>
 - Tweets at <a href="https://twitter.com/darxtrix">@darxtrix</a>
 </p>
@@ -34,7 +33,7 @@ The curious guy who wants to learn all of it. Fascinated by the internet and enj
 ## Education
 
 `2012-2016`
-__IIT-BHU, Varanasi__, Electronics Engineering, __CGPA__  8.22/10
+B.Tech ECE, __[IIT-BHU](https://iitbhu.ac.in/), India__, __CGPA__  8.22/10
 
 `2011`
 __CBSE XIIth (Intermediate)__ , 88.2%
@@ -43,34 +42,23 @@ __CBSE XIIth (Intermediate)__ , 88.2%
 __CBSE Xth (Matriculation)__ ,  94.2%
 
 
-## Technical skills
+## Technologies/Tools
 
-* Python
-* Node/JavaScript
-* Java
-* GoLang
-* C/C++
-* Web Frameworks (Django,Express)
-* Git
-* UNIX
-* Docker
-* Kubernetes
-* HTML/HTML5
-* CSS/CSS3
-
-
-## Looking for
 <pre>
 <p>
-- Any position that offers an oppurtunity to work on Cloud Infrastructure, Developer tools, DevOps team etc. 
-- I love solving high scale problems in coupled systems and enjoy writing distributed applications that can be scaled with minimum downtime.
+- Proficient at <strong>Python</strong>, <strong>Node.js/JavaScript</strong> and <strong>Golang</strong>. Have working experience with <strong>Java</strong>, <strong>C/C++</strong> and <strong>HTML/CSS</strong>.
+- Familiar with <strong>GIT</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong> and have managed <strong>Cloudflare</strong> and <strong>AWS</strong> platforms.
+- Have application building experience with <strong>Django</strong> and <strong>Express</strong> web frameworks.
+- Familiar with the popular storage systems like <strong>Postgres</strong>, <strong>MongoDB</strong>, <strong>Redis</strong> etc.
 </p>
 </pre>
 
-## Not looking for
+
+## Career Interests 
 <pre>
-<p>- A job that requires very less coding work and more meetings.
-- A position in business domain teams.
+<p>
+- I have strong interests in building scalable and resilient distributed systems. I relish working <br/>  on the platform tools and the core infrastructure services.
+- Apart from this, I have interests in Systems performance tuning, Cloud Infrastructure & Tooling, <br/>  DBMS, Web protocols, P2P systems and Linux internals. 
 </p>
 </pre>
 
@@ -79,12 +67,15 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 
 ### Koinex.in, Mumbai
 
-`Dec 17-`
-[Koinex.in](http://koinex.in) is the biggest cryptocurrency exchange in India. My role is of <strong>Senior Platform Engineer</strong>. 
+`Dec 17-Oct 18`
+[Koinex.in](http://koinex.in) is the biggest cryptocurrency exchange in India. My role was of <strong>Senior Platform Engineer</strong> and parallelly leading the platform and wallet services teams. 
 <pre>
-<p>- Responsible for designing and developing large scale systems. Refactoring out bottlenecks from the critical application paths to improve application response time.
-- Designed and developed the framework for handling accounting of Ethereum blockchain based tokens.
-- Designed and developed the charting data pipeline which produces charting data in near real time by running tranformations over data sourced from the data stores. 
+<p> - Architectured and developed <strong>Pushman</strong>, a distributed messaging infrastructure powering the real-time <br/>  communications at Koinex. <a href="https://medium.com/koinex-crunch/pushman-the-koinex-standard-for-realtime-experience-4122d2715c92">More Info</a>
+- Designed and developed the framework for handling accounting of Ethereum blockchain based tokens to grow trade volumes.<br/>  Developed a robust asynchronous queuing engine to handle transactions to facilitate load balancing & retries.
+- Developed <strong>Koinex Loop</strong>, a peer to peer crypto assets transaction platform. <a href="https://koinex.in/loop">More Info</a>
+- Responsible for refactoring out bottlenecks from the critical application paths to improve application response time. <br/>  Refer to the <a href="https://www.mongodb.com/blog/post/digital-cryptocurrency-exchange-overcomes-scaling-challenges-with-mongodb-atlas">MongoDB</a> and <a href="https://www.cloudflare.com/case-studies/koinex/">Cloudflare</a> case studies for more.
+- Designed and developed the charts data pipeline which produces charts data in near real time by running transformations over <br/>  data sourced from the data stores.
+- Developed <strong>Koinex P2P</strong>, an integration to deposit/withdraw fiat in peer to peer manner. <a href="https://medium.com/koinex-crunch/koinex-upgrade-3-0-0-inr-revived-cd6d82c6b7e1">More Info</a>
 - Used Node.js, Python, JAVA, Go for development and technologies/platforms like MongoDB, Redis, AWS etc.
 </p>
 </pre>
@@ -94,12 +85,12 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 `Jul 16 -Dec17`
 Worked on the <strong>Incentives Platfrom</strong>, the [SOR](https://en.wikipedia.org/wiki/System_of_record) for all types of offers/incentives provided by PayPal.
 <pre>
-<p>- Working in an ecosystem with a bunch of microservices and async daemons managing the lifecycle and redemption of incentives given to the users.
+<p>- Working in an ecosystem with a bunch of microservices and async daemons managing the lifecycle and redemption of <br/>  incentives given to the users.
 - Integrated the internal analytics (First Party Tracking Infrastructure) into the system to get better insights of the system.
 - Coupled Enterprise Continuous Integration with system components for better quality.
 - Developed business errors, internal errors, anomaly detection reporting engines.
 - Managing the internal testing framework for the testing of REST microservices.
-- Responsible for adding features, finding and fixing bugs, code-refactoring, optimizations adhering to the <a href="https://en.wikipedia.org/wiki/Service-level_agreement)">SLAs</a> and testing, <br/> delivering the components to prouduction.
+- Responsible for adding features, finding and fixing bugs, code-refactoring, optimizations adhering to the <a href="https://en.wikipedia.org/wiki/Service-level_agreement)">SLAs</a> and testing, <br/> delivering the components to production.
 - Primarily used Java, C++, Node.js for development along with Python at few occasions.
 </p>
 </pre>
@@ -111,7 +102,7 @@ Worked with the __syslog-ng__ team. Currently the project is getting rewritten i
 <p>- Architectured the release process of syslog-ng by analysing its build system and packaging.
 - Developed a changelog generation algorithm to generate a changelog from the GIT/GitHub history of the project.
 - Developed modules that can be used in cohesion to carry out the release process.
-- Primarily used Python for development along with heavy usage of technologies like Docker, GIT, GitHub Api etc.
+- Primarily used Python for development along with heavy usage of technologies like Docker, GIT, GitHub APIs etc.
 </p>
 </pre>
 
@@ -163,38 +154,10 @@ Delivered a talk at [Python Conference of India](https://in.pycon.org/) on the t
 
 ### ptop 
 
-A terminal based task manager for linux based systems with real time visuals of resource usages. The project received > 1K <br/>
-downloads in the first two days and trended on GitHub for a week. [More info](http://darxtrix.in/ptop)
+A terminal based task manager for MacOSX & Linux based systems with real time visuals of resource usages. [More info](http://darxtrix.in/ptop)
 
 ### lehar
-A Python library and a drop-in for your shell to generate histograms from data using relative ordering of data. **[WIP]** [More Info](http://darxtrix.in/lehar)
-
-### tweety
-
-A web application that predicts a tweet corresponding to a twitter handle. It uses a trained Markov bot that uses bigram <br/>
-probabilities to generate a tweet from a structured data set generated from tweet history of users. [More info](http://tweety.herokuapp.com)
-
-### anonymous_me
-
-A URL shortening service that generates a shortened URL from a user entered URL. [More info](http://anme.herokuapp.com)
-
-### play_sudoku
-
-A Sudoku solver web application that uses backtracking algorithm to solve a Sudoku puzzle entered by user. [More info](http://darxtrix.in/Play-Sudoku/)
-
-### virtual_user
-A Desktop application that powers users to do primitive operations like scrolls, clicks, mouse-movements by using hand gestures 
-alone. The application translates different colors to different computer operations by using color detection algorithms. [More info](https://github.com/darxtrix/Virtual-User.git)
-
-### touchless_flappy_game
-
-A flappy bird game interfaced to be played by hand gesture movements. Used Pygame library for developing the game and SimpleCV library 
-<br/> with various Image Processing algorithms for interfacing the game with hand gestures. [More Info](https://github.com/darxtrix/Touch-free-flappy-bird-game)
-
-### btech_project
-
-Developed a platform that enables users to do wifi calling using their smartphones over intranet.
-
+A Python library and a drop-in for your shell to generate histograms from data using relative ordering of data. [More Info](http://darxtrix.in/lehar)
 
 ## Activities
 <br/>
@@ -202,11 +165,11 @@ Developed a platform that enables users to do wifi calling using their smartphon
 ### Clubs Of Programmers 
 
 Conducted multiple workshops and hands-on sessions on Web APIs, Databases, Python, GIT and other technologies as a
-senior member of CLUB OF PROGRAMMERS, IIT-BHU.
+senior member of [CLUB OF PROGRAMMERS](https://www.facebook.com/cops.iitbhu/), IIT-BHU.
 
 ### Code-4-2day
 
 Successfully coordinated an app development event Code-4-2day for the departmental fest UDYAM. It was an effort to build <br/>programming culture at IIT-BHU and to encourage fellow students to contribute to open source software.
 
 
-<!--Last updated: Aug 16 2017 -->
+<!--Last updated: Feb 10 2019 -->
