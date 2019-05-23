@@ -20,7 +20,7 @@ title: Ankush Sharma's cv
 ## About Me
 
 
-Fascinated by the internet and enjoying the art of programming, thriving to combine them into my everyday work. I go by the alias **darxtrix** on the Internet. In case you missed:
+Fascinated by the internet and enjoying the art of programming, thriving to combine them into my everyday work.
 <pre>
 <p>- I blog about my work and projects at <a href="https://medium.com/@darxtrix">Medium</a> & <a href="http://darxtrix.in">darxtrix.in</a>
 - Checkout my open source projects at <a href="https://github.com/darxtrix">GitHub</a>
@@ -46,7 +46,7 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 
 <pre>
 <p>
-- Proficient at <strong>Python</strong>, <strong>Node.js/JavaScript</strong>, <strong>Golang</strong>, <strong>Java</strong>, <strong>C/C++</strong>.
+- Proficient at <strong>Python</strong>, <strong>Node.js/JavaScript</strong>, <strong>Golang</strong>, <strong>Java</strong> & <strong>C/C++</strong>.
 - Familiar with <strong>GIT</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong> and popular <strong>Linux</strong> distributions.
 - Have experience building web services using <strong>Django</strong> and <strong>Express</strong> web frameworks.
 - Have worked with popular SQL and NOSQL storage systems like <strong>Postgres</strong>, <strong>MongoDB</strong>, <strong>Redis</strong> etc.
@@ -55,7 +55,7 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 </pre>
 
 
-## Interests
+## Interests & Background
 <pre>
 <p>
 - Building low latency resilient distributed systems and scaling them out to keep up with load.
@@ -68,29 +68,31 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 ## Work Experience
 <br/>
 
-### Koinex.in, Mumbai, India
+### Senior Software Engineer
+### Koinex, Mumbai (India)
 
 `Dec 17-Oct 18`
-[Koinex.in](http://koinex.in) is the biggest cryptocurrency exchange in India. My role was of <strong>Senior Platform Engineer</strong> and parallelly leading the development of a few platform and wallet services. 
+[Koinex](http://koinex.in) is the most advanced digital assets exchange in India. I joined in as one of the initial members of the engineering team and was responsible for architecture and development of various platform and wallet services. 
 <pre>
-<p> - Lead the development of <strong>Pushman</strong>, a distributed messaging infrastructure powering the real-time communications at Koinex.<br/>  Scaled the system to a million concurrent connections with minimum message latency. <a href="https://medium.com/koinex-crunch/pushman-the-koinex-standard-for-realtime-experience-4122d2715c92">Engineering Blog</a>
+<p> - Lead the development of <strong>Pushman</strong>, a distributed messaging infrastructure powering the real-time communications at Koinex.<br/>   Scaled the system to a million concurrent connections with minimum message latency. <a href="https://medium.com/koinex-crunch/pushman-the-koinex-standard-for-realtime-experience-4122d2715c92">Engineering Blog</a>
 - Developed the framework for handling accounting of Ethereum blockchain based tokens and added 20+ trading pairs <br/>  growing trade volumes by millions.  Developed a robust asynchronous queuing engine to handle blockchain transactions <br/>  to facilitate load balancing & automated retries.
-- Architectured and developed <strong><a href="https://koinex.in/loop">Koinex Loop</a></strong>, a peer to peer crypto assets transaction platform & <strong> <a href="https://medium.com/koinex-crunch/koinex-upgrade-3-0-0-inr-revived-cd6d82c6b7e1">Koinex P2P</a></strong>, an intergration <br/>  to deposit/withdraw fiat in a peer to peer manner. Both of them were fast paced projects involving high volumes of financial <br/>  transactions and were shipped within a few weeks.
-- Desgined charting data pipeline to power realtime trading charts on the Koinex website and mobile apps. 
-- Responsible for MongoDB data migration, managing <strong>AWS</strong> and <strong>Cloudflare</strong> platforms and refactoring out bottlenecks from <br/>  critical application paths. Refer to the <a href="https://www.mongodb.com/blog/post/digital-cryptocurrency-exchange-overcomes-scaling-challenges-with-mongodb-atlas"><strong>MongoDB</strong></a> and <a href="https://www.cloudflare.com/case-studies/koinex/"><strong>Cloudflare</strong></a> case studies for more.
+- Architectured and developed <strong><a href="https://koinex.in/loop">Koinex Loop</a></strong>, a peer to peer crypto assets transaction platform & <strong> <a href="https://medium.com/koinex-crunch/koinex-upgrade-3-0-0-inr-revived-cd6d82c6b7e1">Koinex P2P</a></strong>, an intergration <br/>  to deposit/withdraw fiat currency in a peer to peer manner. Both of them were fast paced projects involving high volumes of <br/>  financial transactions and were shipped within a few weeks.
+- Designed charting data pipeline to power realtime trading charts on the Koinex website and mobile apps. 
+- Responsible for data migration to the MongoDB cluster to scale write traffic, managing <strong>AWS</strong> & <strong>Cloudflare</strong> platforms and <br/>  refactoring out bottlenecks from critical application paths. Refer to the <a href="https://www.mongodb.com/blog/post/digital-cryptocurrency-exchange-overcomes-scaling-challenges-with-mongodb-atlas"><strong>MongoDB</strong></a> and <a href="https://www.cloudflare.com/case-studies/koinex/"><strong>Cloudflare</strong></a> case studies for more.
 - Used <strong>Node.js, Python, JAVA, Go</strong> for development and technologies/platforms like <strong>MongoDB, Redis, AWS</strong> etc.
 </p>
 </pre>
 
-### PayPal, Bengaluru, India
+### Software Engineer
+### PayPal Inc, Bengaluru (India)
 
-`Jul 16 -Dec17`
+`Jul 16-Dec 17`
 Worked on the <strong>Incentives Platfrom</strong>, the [SOR](https://en.wikipedia.org/wiki/System_of_record) for all types of offers/incentives provided by PayPal.
 <pre>
 <p>- Working in an ecosystem with a bunch of microservices and asynchronous daemons managing the lifecycle and redemption of <br/>  incentives given to the users.
 - Integrated the internal analytics (First Party Tracking Infrastructure) into the system to get better insights of the ongoing events.
 - Coupled Enterprise Continuous Integration with system components for automated quality checks.
-- Developed business errors, internal errors, anomaly detection reporting engines.
+- Developed business errors, internal errors and anomaly detection reporting engines.
 - Managing the internal testing framework for the testing of REST microservices.
 - Responsible for adding features, finding and fixing bugs, code-refactoring, optimizations adhering to the SLAs and testing, <br/> delivering the components to production.
 - Primarily used <strong>Java, C++, Node.js</strong> for development along with <strong>Python</strong> at few occasions.
