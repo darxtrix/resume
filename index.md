@@ -5,13 +5,13 @@ title: Ankush Sharma's cv
 # Ankush Sharma 
 <br/>
 <div id="webaddress">
-<a href="http://darxtrix.in">darxtrix.in</a>
+<a href="https://medium.com/@darxtrix">Medium Blog</a>
 |
-<i class="fa fa-envelope"></i> <a href="mailto:darxtrix@gmail.com">darxtrix@gmail.com</a>
+<i class="fa fa-envelope"></i> <a href="mailto:ankcodes@gmail.com">ankcodes@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="https://github.com/darxtrix">darxtrix</a>
+<i class="fa fa-github"></i> <a href="https://github.com/darxtrix">Github</a>
 |
-<i class="fa fa-twitter"></i> <a href="https://twitter.com/darxtrix">darxtrix</a>
+<i class="fa fa-twitter"></i> <a href="https://twitter.com/darxtrix">Twitter</a>
 |
 <i class="fa fa-phone"></i> <a href="#">(+91)-8081172177</a>
 </div>
@@ -19,10 +19,10 @@ title: Ankush Sharma's cv
 
 ## About Me
 
-
-Fascinated by the internet and enjoying the art of programming, thriving to combine them into my everyday work.
+As an engineering leader, I have extensive experience in overseeing multi-year projects and developing robust solutions for large-scale financial systems, real-time infrastructure, IoT platforms, and MLOps services. My hands-on expertise spans a variety of tech stacks and frameworks, and I have successfully navigated both startup environments and large tech companies. 
+<br/>
 <pre>
-<p>- I blog about my work and projects at <a href="https://medium.com/@darxtrix">Medium</a> & <a href="http://darxtrix.in">darxtrix.in</a>
+<p>- I blog about my work and projects at <a href="https://medium.com/@darxtrix">Medium</a>
 - Checkout my open source projects at <a href="https://github.com/darxtrix">GitHub</a>
 - Tweets at <a href="https://twitter.com/darxtrix">@darxtrix</a>
 </p>
@@ -46,8 +46,8 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 
 <pre>
 <p>
-- Proficient at <strong>Python</strong>, <strong>Node.js/JavaScript</strong>, <strong>Golang</strong>, <strong>Java</strong> & <strong>C/C++</strong>.
-- Familiar with <strong>GIT</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong> and popular <strong>Linux</strong> distributions.
+- Have written production systems using <strong>Python</strong>, <strong>Node.js/JavaScript</strong>, <strong>Golang</strong>, <strong>Java</strong> & <strong>C/C++</strong> programming languages.
+- Hands on with <strong>GIT</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong> and popular <strong>Linux</strong> distributions.
 - Have experience building web services using <strong>Django</strong> and <strong>Express</strong> web frameworks.
 - Have worked with popular SQL and NOSQL storage systems like <strong>Postgres</strong>, <strong>MongoDB</strong>, <strong>Redis</strong> etc.
 - Experience managing <strong>AWS</strong> (EC2, Aurora, ALBs, VPCs etc.) and <strong>Cloudflare</strong> platforms.
@@ -55,27 +55,29 @@ __CBSE Xth (Matriculation)__ ,  94.2%
 </pre>
 
 
-## Interests & Background
+## Full-time Experience
+<br/>
+
+### Engineering Lead 
+### Google, Bengaluru (India)
+`Aug 19-Present`
+Led the design and development of IOT and MLOPs platform efforts at Google Nest.
 <pre>
-<p>
-- Building low latency resilient distributed systems and scaling them out to keep up with load.
-- Systems performance tuning and scaling up using threading & concurrency patterns, caching and asynchronous architectures.
-- Designing high volume transactional systems with automated fraud detection and auditing to ensure integrity.
-- Microservices design, Algorithms & Data Structures, Cloud Infrastructure & Tooling, Web Protocols and Linux internals. 
+<p> - Led a team of 7 members and successfully launched an on-device ML model feedback collection flows and insights platform for <br/> Nest Cameras, Nest hub, and Pixel devices. 
+- Designing high throughput, resilient and low latency systems to improve the IOT platform serving millions of Nest Cameras, <br/> Thermostats etc. 
+- Used <strong>JAVA, C++</strong> majorly coupled with internal google frameworks.
 </p>
 </pre>
 
-## Work Experience
-<br/>
 
-### Senior Software Engineer
+### Engineering Lead
 ### Koinex, Mumbai (India)
 
 `Dec 17-Oct 18`
-[Koinex](http://koinex.in) is the most advanced digital assets exchange in India. I joined in as one of the initial members of the engineering team and was responsible for architecture and development of various platform and wallet services. 
+[Koinex](http://koinex.in) was the most advanced digital assets exchange in India, clocking 260M$/day trade volumes at peak. I joined in as one of <br/> the initial members of the engineering team when the company was 2 months old and was responsible for architecture and development of various platform and wallet services. I was also responsible for tech leadership and hiring the team.
 <pre>
-<p> - Lead the development of <strong>Pushman</strong>, a distributed messaging infrastructure powering the real-time communications at Koinex.<br/>   Scaled the system to a million concurrent connections with minimum message latency. <a href="https://medium.com/koinex-crunch/pushman-the-koinex-standard-for-realtime-experience-4122d2715c92">Engineering Blog</a>
-- Developed the framework for handling accounting of Ethereum blockchain based tokens and added 20+ trading pairs <br/>  growing trade volumes by millions.  Developed a robust asynchronous queuing engine to handle blockchain transactions <br/>  to facilitate load balancing & automated retries.
+<p> - Developed <strong>Pushman</strong>, a distributed messaging infrastructure powering the real-time communications at Koinex to repalce <br/> the vendor system. Achieved infrastructure cost savings of order $20-30k per mention <a href="https://medium.com/koinex-crunch/pushman-the-koinex-standard-for-realtime-experience-4122d2715c92">Engineering Blog</a>
+- Developed the framework for handling accounting of Ethereum blockchain based tokens and added 20+ trading pairs <br/>  growing trade volumes on the exchange by millions.  Developed a robust asynchronous queuing engine to handle blockchain <br/> transactions to facilitate load balancing & automated retries.
 - Architectured and developed <strong><a href="https://koinex.in/loop">Koinex Loop</a></strong>, a peer to peer crypto assets transaction platform & <strong> <a href="https://medium.com/koinex-crunch/koinex-upgrade-3-0-0-inr-revived-cd6d82c6b7e1">Koinex P2P</a></strong>, an intergration <br/>  to deposit/withdraw fiat currency in a peer to peer manner. Both of them were fast paced projects involving high volumes of <br/>  financial transactions and were shipped within a few weeks.
 - Designed charting data pipeline to power realtime trading charts on the Koinex website and mobile apps. 
 - Responsible for data migration to the MongoDB cluster to scale write traffic, managing <strong>AWS</strong> & <strong>Cloudflare</strong> platforms and <br/>  refactoring out bottlenecks from critical application paths. Refer to the <a href="https://www.mongodb.com/blog/post/digital-cryptocurrency-exchange-overcomes-scaling-challenges-with-mongodb-atlas"><strong>MongoDB</strong></a> and <a href="https://www.cloudflare.com/case-studies/koinex/"><strong>Cloudflare</strong></a> case studies for more.
@@ -100,7 +102,7 @@ Worked on the <strong>Incentives Platfrom</strong>, the [SOR](https://en.wikiped
 </pre>
 
 
-## Past Internships
+## Internships and Contract work
 <br/>
 
 ### Google Summer of Code
@@ -114,6 +116,8 @@ Worked with the __syslog-ng__ team. Currently the project is getting rewritten i
 </p>
 </pre>
 
+<br/>
+<br/>
 ### Google Summer of Code
 
 `Mar-Aug 15`
